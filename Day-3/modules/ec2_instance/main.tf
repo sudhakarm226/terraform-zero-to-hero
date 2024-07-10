@@ -1,1 +1,3 @@
-provid
+provider "" {
+  
+}
